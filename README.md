@@ -44,10 +44,6 @@ The project consists of both the complete software stack (ROS workspaces) and th
 ├── Videos/
 │
 ├── BOM_Itemized.csv
-│
-├── 99_m1_eternal-1.pdf
-│
-└── README.md
 ```
 
 ---
